@@ -30,16 +30,16 @@
 
 ## 📖 About PSPad
 
-PSPad is a free, feature-rich text and code editor for Windows. It supports syntax highlighting for over 100 programming languages, hex editor, FTP client, macro recording, diff viewer, and extensive customization — a powerful tool for developers and power users.
+PSPad is a free, feature-rich text and code editor for Windows. Supports syntax highlighting for hundreds of programming languages, macro recording, a built-in FTP client, a hex editor, and project management. PSPad's comprehensive feature set covers developer needs from writing code to editing configuration files, making it a versatile all-in-one text editing solution for Windows power users.
 
 ---
 
 ## ❌ Problem: PSPad is hard to access
 
-- **Windows Only** — Not available on macOS or Linux
-- **Dated Interface** — UI design has not significantly modernized
-- **Development Pace** — Updates arrive infrequently compared to actively developed editors
-- **64-bit Support** — Historical compatibility issues with 64-bit Windows versions
+- **Windows Only** — No macOS or Linux version
+- **UI Dated** — Interface design reflects an older era of Windows software
+- **Development Pace** — Update releases less frequent than modern editors
+- **Extensions** — Plugin ecosystem smaller than editors like Notepad++
 
 ---
 
